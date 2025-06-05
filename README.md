@@ -1,4 +1,5 @@
 <h1 align="center">Hola, Soy Francisco Aispuro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+¿Quien soy?
 
 
 Soy un estudiante de programación apasionado por la tecnología y el desarrollo de software. Me interesa explorar nuevas herramientas, aprender de forma constante y participar en proyectos que me permitan seguir creciendo como desarrollador. Disfruto resolviendo problemas, construyendo soluciones útiles y colaborando en entornos que fomenten la innovación y el aprendizaje continuo.
